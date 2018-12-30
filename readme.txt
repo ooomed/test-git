@@ -4,5 +4,4 @@ premier commot depuis le local vers origin master
 
 seconde modification du fichier depuis github
 3eme modification du fichier depuis github
-ajouter la liste des fruits : Banane, Pomme, Kiwi
 
